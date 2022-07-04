@@ -5,7 +5,7 @@
 
 ## Sobre
 
-<p>  Mini projeto realizado com Windows Builder para fortaceler pontos como validações e tratativas de erros. </p>
+<p>  Mini projeto realizado com Windows Builder para fortalecer pontos como validações e tratativas de erros. </p>
 
 ## Tecnologias
 
